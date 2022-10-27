@@ -8,7 +8,9 @@
 2. Data sources to capture genomic medicine practices include electronic forms (e.g., electronic health record problem lists), clinical documents (free text), patient portals, and scanned paper forms and documents. Clinical documents we will extract include: progress notes, consults, and discharge summaries (at most 20 notes per patient).
 3. Patients included in our dataset will be flagged for indicators of genetic disease, genetic testing, healthcare utilization, diagnoses, medication use, and patient communication with providers
 
-## Registry Measures
+## Data Types and sources
+(table)
+Data Sources
 ![image](https://user-images.githubusercontent.com/71967651/198303612-fa0fe447-9ab6-4d52-9cb4-9b52fa4d2bcf.png)
 
 ## Proposed Method
